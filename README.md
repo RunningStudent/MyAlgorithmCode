@@ -1,1 +1,1 @@
-## MyAlgorithmCode
+## MyAlgorithm
